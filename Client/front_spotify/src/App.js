@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { FaArrowLeft, FaHeart } from 'react-icons/fa'; 
 
-const YOUTUBE_API_KEY = 'AIzaSyBeyWD4npmY2tX0KyuS1IIprgmAEr6_v0U';
+const YOUTUBE_API_KEY = '';
 
 function App() {
   const [menuOpen, setMenuOpen] = useState(false);
